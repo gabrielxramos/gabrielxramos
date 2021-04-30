@@ -1,14 +1,18 @@
 <a href="#">
   <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/method-draw-image.svg" alt="a man holding his cellphone with planets in the background of the image" width=55% height=55% />
-</a>
-<h1 align="center">Hi 👋, I'm Gabriel Ramos</h1>
-<h3 align="center"> 📱 👨‍🎨 Apaixonado por Desenvolvimento Mobile e UI/UX </h3>
+  
+  # Gabriel Ramos
+<a href="https://linkedin.com/in/gabrielxramos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/gabrielxramoss"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:gabrielxramosp@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a ![](https://komarev.com/ghpvc/?username=gabrielxramos&color=00BFA6&style=flat-square)></a>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
+I'm Gabriel Ramos.<br>
+📱 👨‍🎨 Apaixonado por Desenvolvimento Mobile e UI/UX </h3>
 
 - - - -
 
-  ![](https://komarev.com/ghpvc/?username=gabrielxramos&color=00BFA6&style=flat-square)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-grey&?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielxramos)](https://www.linkedin.com/in/gabrielxramos)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielxramosp@gmail.com)](mailto:gabrielxramosp@gmail.com/)
 
 <!--
 **gabrielxramos/gabrielxramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
