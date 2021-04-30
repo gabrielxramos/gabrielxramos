@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/method-draw-image.svg" alt="a man holding his cellphone with planets in the background of the image" width=45% height=45% />
+  <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/method-draw-image.svg" alt="a man holding his cellphone with planets in the background of the image" width=43% height=43% />
   
   # Gabriel Ramos
 <a href="https://linkedin.com/in/gabrielxramos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
