@@ -1,10 +1,13 @@
+<a href="#">
+  <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/method-draw-image.svg" alt="a man holding his cellphone with planets in the background of the image" width=55% height=55% />
+</a>
 <h1 align="center">Hi 👋, I'm Gabriel Ramos</h1>
 <h3 align="center"> 📱 👨‍🎨 Apaixonado por Desenvolvimento Mobile e UI/UX </h3>
 
 - - - -
 
   ![](https://komarev.com/ghpvc/?username=gabrielxramos&color=00BFA6&style=flat-square)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black&?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielxramos)](https://www.linkedin.com/in/gabrielxramos)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-grey&?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielxramos)](https://www.linkedin.com/in/gabrielxramos)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielxramosp@gmail.com)](mailto:gabrielxramosp@gmail.com/)
 
 <!--
