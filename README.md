@@ -10,7 +10,7 @@
 I'm Gabriel Ramos.<br>
 📱 I'm a Software Engineer and Mobile student and passionate about UI/UX </h3>
 
-- 👨‍🎓┇I’m currently studing on [Digital House](https://www.digitalhouse.com/br/curso/desenvolvimento-mobile-android)
+- 👨‍🎓 ┇I’m currently studing on [Digital House](https://www.digitalhouse.com/br/curso/desenvolvimento-mobile-android)
 - 💻 ┇Kotlin
 - ✨ ┇Learning is continuous and there will always be a next level!
 
