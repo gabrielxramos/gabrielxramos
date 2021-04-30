@@ -10,8 +10,10 @@
 I'm Gabriel Ramos.<br>
 📱 I'm a Software Engineer and Mobile student and passionate about UI/UX </h3>
 
-- 👨‍🎓 I’m currently studing on [Digital House](https://www.digitalhouse.com/br/curso/desenvolvimento-mobile-android)
-- ⚔️ I'm MMMORPGs Player
+- 👨‍🎓 ┇I’m currently studing on [Digital House](https://www.digitalhouse.com/br/curso/desenvolvimento-mobile-android)
+- 💻 ┇Kotlin
+- ✨ ┇Learning is continuous and there will always be a next level
+- ⚔️ ┇I'm MMORPGs Player
 
 ![](https://komarev.com/ghpvc/?username=gabrielxramos&color=00BFA6&style=flat-square)
 - - - -
