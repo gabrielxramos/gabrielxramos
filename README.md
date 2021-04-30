@@ -3,7 +3,8 @@
 
 - - - -
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielxramos)](https://www.linkedin.com/in/gabrielxramos)
+  ![](https://komarev.com/ghpvc/?username=daltonmenezes&color=00BFA6&style=flat-square)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-00BFA6&?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielxramos)](https://www.linkedin.com/in/gabrielxramos)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielxramosp@gmail.com)](mailto:gabrielxramosp@gmail.com/)
 
 <!--
