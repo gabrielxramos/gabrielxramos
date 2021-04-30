@@ -8,7 +8,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
 I'm Gabriel Ramos.<br>
-📱 I'm a Software Engineer and Mobile student and passionate about UI/UX 👨‍🎨</h3>
+📱 I'm a Software Engineer and Mobile student and passionate about UI/UX </h3>
+
+- 👨‍🎓 I’m currently studing on [Digital House](https://www.digitalhouse.com/br/curso/desenvolvimento-mobile-android)
 
 ![](https://komarev.com/ghpvc/?username=gabrielxramos&color=00BFA6&style=flat-square)
 - - - -
