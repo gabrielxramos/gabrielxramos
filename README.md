@@ -2,6 +2,7 @@
 <h3 align="center"> 🧑‍💻 👨‍🎨 Apaixonado por Desenvolvimento Mobile e UI/UX </h3>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielxramos)](https://www.linkedin.com/in/gabrielxramos)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielxramosp@gmail.com)](mailto:gabrielxramosp@gmail.com/)
 
 <!--
 **gabrielxramos/gabrielxramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
