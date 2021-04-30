@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ramos</h1>
-<h3 align="center"> Apaixonado por Desenvolvimento Mobile e UI/UX </h3>
+<h3 align="center"> 👨‍🎨 Apaixonado por Desenvolvimento Mobile e UI/UX </h3>
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielxramos)](https://www.linkedin.com/in/gabrielxramos)
 
