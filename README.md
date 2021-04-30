@@ -9,6 +9,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
 I'm Gabriel Ramos.<br>
 📱 👨‍🎨 Apaixonado por Desenvolvimento Mobile e UI/UX </h3>
+
 ![](https://komarev.com/ghpvc/?username=gabrielxramos&color=00BFA6&style=flat-square)
 - - - -
 
